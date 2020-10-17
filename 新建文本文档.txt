@@ -1,0 +1,1 @@
+应用市场教育中心课程上下架、优惠券发放、智慧测评、知识点图谱管理等功能，主要使用框架为CSE(整合SpringCloud)、DCS(整合redis)、DMQ(整合kafka)、Rainbow（整合druid）
